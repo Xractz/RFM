@@ -7,6 +7,7 @@ Tested on **Termux**
 ```
 $pkg install python -y
 $pip install requests
+$python rfm.py
 ```
 
 ### Report bug or contribution
